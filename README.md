@@ -1,1 +1,1 @@
-Look Design Image and Change it to code
+Look Design Change it into code
